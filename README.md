@@ -12,7 +12,7 @@ Built to government/education-platform quality standards with intelligent eligib
 
 This repository is pre-configured for **zero-config deployment on Vercel**:
 
-1. Import this repository (`https://github.com/seethaladevi2024-cpu/Scholorlink_project`) into your [Vercel Dashboard](https://vercel.com/new).
+1. Import this repository (`https://github.com/Roshini147/scholarlink-web.git`) into your [Vercel Dashboard](https://vercel.com/new).
 2. Leave all default settings as they are:
    - **Framework Preset:** Vite
    - **Root Directory:** `./` (or `frontend`)
